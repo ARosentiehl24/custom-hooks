@@ -1,0 +1,15 @@
+{
+    "bracketSameLine": true,
+    "bracketSpacing": true,
+    "overrides": [
+        {
+            "files": "*.css",
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ],
+    "printWidth": 160,
+    "tabWidth": 4,
+    "singleQuote": true
+}
